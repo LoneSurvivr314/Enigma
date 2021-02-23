@@ -1,2 +1,2 @@
 # Enigma
-Emulator / simulation of the Enigma code machine from WWII
+Emulator / simulation of the Enigma code machine from WWII.
